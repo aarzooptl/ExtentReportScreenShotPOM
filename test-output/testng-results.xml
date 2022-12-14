@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T18:02:10Z" name="Suite" finished-at="2022-12-14T18:03:45Z" duration-ms="95316">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T18:02:10Z" name="Test" finished-at="2022-12-14T18:03:45Z" duration-ms="95316">
+      <class name="rahulsheetyacademytestcases.ProductListTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:31Z" name="setUp" finished-at="2022-12-14T18:02:36Z" duration-ms="5906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCart()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:36Z" name="AddToCart" finished-at="2022-12-14T18:02:38Z" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:38Z" name="tearDown" finished-at="2022-12-14T18:02:39Z" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:39Z" name="setUp" finished-at="2022-12-14T18:02:45Z" duration-ms="6415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ProListTest()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:45Z" name="ProListTest" finished-at="2022-12-14T18:02:46Z" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProListTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:46Z" name="tearDown" finished-at="2022-12-14T18:02:46Z" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:46Z" name="setUp" finished-at="2022-12-14T18:02:52Z" duration-ms="5860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cartProductList()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:02:52Z" name="cartProductList" finished-at="2022-12-14T18:03:02Z" duration-ms="10007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartProductList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:02Z" name="tearDown" finished-at="2022-12-14T18:03:03Z" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:03Z" name="setUp" finished-at="2022-12-14T18:03:09Z" duration-ms="6237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnOrders()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:09Z" name="clickOnOrders" finished-at="2022-12-14T18:03:09Z" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnOrders -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:09Z" name="tearDown" finished-at="2022-12-14T18:03:10Z" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:10Z" name="setUp" finished-at="2022-12-14T18:03:17Z" duration-ms="6968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickToCart()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:17Z" name="clickToCart" finished-at="2022-12-14T18:03:18Z" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:18Z" name="tearDown" finished-at="2022-12-14T18:03:19Z" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:19Z" name="setUp" finished-at="2022-12-14T18:03:26Z" duration-ms="6903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getNameofProduct()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:26Z" name="getNameofProduct" finished-at="2022-12-14T18:03:26Z" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNameofProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:26Z" name="tearDown" finished-at="2022-12-14T18:03:27Z" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:27Z" name="setUp" finished-at="2022-12-14T18:03:33Z" duration-ms="6170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderList()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:33Z" name="orderList" finished-at="2022-12-14T18:03:44Z" duration-ms="11042" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //tr/td[3]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [feae98f5-78ef-40d8-baff-19f88c1dbcf6, findChildElement {id=6e9e147b-3c05-433b-9afd-ea5ea25c3ec5, using=xpath, value=//tr/td[3]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 108.0, moz:accessibilityChecks: false, moz:buildID: 20221208122842, moz:debuggerAddress: 127.0.0.1:36001, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5420, moz:profile: C:\Users\Aarzoo\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:36001/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: feae98f5-78ef-40d8-baff-19f88c1dbcf6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //tr/td[3]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [feae98f5-78ef-40d8-baff-19f88c1dbcf6, findChildElement {id=6e9e147b-3c05-433b-9afd-ea5ea25c3ec5, using=xpath, value=//tr/td[3]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 108.0, moz:accessibilityChecks: false, moz:buildID: 20221208122842, moz:debuggerAddress: 127.0.0.1:36001, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5420, moz:profile: C:\Users\Aarzoo\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:36001/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: feae98f5-78ef-40d8-baff-19f88c1dbcf6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:227)
+at rahulshettyacademy.ProductListPage.lambda$2(ProductListPage.java:77)
+at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:176)
+at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1602)
+at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127)
+at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543)
+at rahulshettyacademy.ProductListPage.verifyOrderList(ProductListPage.java:77)
+at rahulsheetyacademytestcases.ProductListTest.orderList(ProductListTest.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.ProductListTest@5a3bc7ed]" started-at="2022-12-14T18:03:44Z" name="tearDown" finished-at="2022-12-14T18:03:45Z" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- rahulsheetyacademytestcases.ProductListTest -->
+      <class name="rahulsheetyacademytestcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:10Z" name="setUp" finished-at="2022-12-14T18:02:16Z" duration-ms="6355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginPageRegister()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:16Z" name="LoginPageRegister" finished-at="2022-12-14T18:02:16Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:16Z" name="tearDown" finished-at="2022-12-14T18:02:17Z" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:17Z" name="setUp" finished-at="2022-12-14T18:02:24Z" duration-ms="7083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="UserLogin()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:24Z" name="UserLogin" finished-at="2022-12-14T18:02:24Z" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:24Z" name="tearDown" finished-at="2022-12-14T18:02:25Z" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:25Z" name="setUp" finished-at="2022-12-14T18:02:30Z" duration-ms="5419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:30Z" name="loginPageTitleTest" finished-at="2022-12-14T18:02:30Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulsheetyacademytestcases.LoginPageTest@42530531]" started-at="2022-12-14T18:02:30Z" name="tearDown" finished-at="2022-12-14T18:02:31Z" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- rahulsheetyacademytestcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

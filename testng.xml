@@ -1,0 +1,15 @@
+<suite parallel="false" name="Suite">
+<test name="Test">
+<listeners>
+ 	<listener class-name="rahulsheetyacademytestcases.Listeners"/>
+</listeners>
+
+<classes>
+	<class name="rahulsheetyacademytestcases.LoginPageTest"/>
+	<class name="rahulshettyacademy.base.BaseClass"/>
+	<class name="rahulsheetyacademytestcases.ProductListTest"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->
